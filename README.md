@@ -1,5 +1,5 @@
 # PortfolioSite_GULP_SCSS_BOOTSTRAP
-1) This is responsive website developed using HTML5,BOOTSTRAP,LESS, CSS,SASS,SCSS
+1) This is responsive website developed using HTML5,BOOTSTRAP,LESS,CSS,SASS,SCSS,Font-Awesome
 
 2) This site was further optimised by using gulp (toolkit for automating painful or time-consuming tasks in my development workflow, 
 so that I can stop messing around and build relevent website quickly!)
